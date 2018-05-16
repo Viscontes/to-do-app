@@ -1,2 +1,3 @@
 # to-do-app
-Simple ToDo app
+
+Simple ToDo list with pure JS and CSS.
